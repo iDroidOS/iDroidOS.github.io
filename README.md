@@ -1,37 +1,3 @@
-<style>
-  body {
-    background-color: #121212;
-    color: #e0e0e0;
-    font-family: Arial, sans-serif;
-  }
-  a {
-    color: #BB86FC;
-  }
-  a:visited {
-    color: #BB86FC;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
-  }
-  code {
-    background-color: #1e1e1e;
-    color: #dcdcdc;
-    padding: 2px 4px;
-    border-radius: 4px;
-  }
-  pre {
-    background-color: #1e1e1e;
-    color: #dcdcdc;
-    padding: 10px;
-    border-radius: 4px;
-    overflow-x: auto;
-  }
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-</style>
 # iDroidOS
 
 Welcome to the iDroidOS project! We are currently undertaking the ambitious task of decompiling iOS and making it open source. Thank you for checking out our project.
